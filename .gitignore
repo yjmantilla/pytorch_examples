@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 ignore_data/
+runs/
 
 # C extensions
 *.so
